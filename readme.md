@@ -1,3 +1,7 @@
+# Archived
+
+This project has been archived in favor of our new version that can be found at [GitHub: Liatrio/Gratibot](https://www.github.com/liatrio/gratibot)
+
 # Gratibot
 
 Gratibot is based off of [HowdyAI's Botkit](https://botkit.ai/) framework. We appreciate all the hard work they have done to give us this framework to extend.
